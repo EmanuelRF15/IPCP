@@ -1,4 +1,4 @@
-# **Resumo de Projetos e Exercícios em C: Pensamento Computacional**
+# **Caderno de Exercícios Introdução ao Pensamento Computacional e a Programação**
 
 ## **Descrição**  
 Este repositório contém uma série de projetos e exercícios desenvolvidos para praticar conceitos fundamentais de programação.
